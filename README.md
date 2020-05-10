@@ -7,4 +7,4 @@ Bounce Animation
 
 Bounce Animation - CSS Animations
 
-![](/assets/screen.png)
+![](/assets/screen.gif)
